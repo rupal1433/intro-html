@@ -42,8 +42,8 @@ h1 {
 img {
     grid-row-start: 2;
     grid-column-start: 1;
-    max-width: 200px;
-    max-height: 200px;
+    max-width: 150px;
+    max-height: 150px;
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin: 50px;
@@ -54,7 +54,7 @@ ul {
     grid-row-start: 2;
     grid-column-start: 2;
     width: 200px;
-    font-size: 40pt;
+    font-size: 48pt;
 } 
 
 ul:before {
